@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "771983508480",
+    "project_id": "notemaker-6def7",
+    "storage_bucket": "notemaker-6def7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771983508480:android:30442abf92029bd6ec44e5",
+        "android_client_info": {
+          "package_name": "com.afjal.notemaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771983508480-m9lv4040v4cm1a968hsqr342rk6abapm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.afjal.notemaker",
+            "certificate_hash": "2f33ff69c9313f351eef0cce64f819477d4acdb7"
+          }
+        },
+        {
+          "client_id": "771983508480-lr716scbdkrtk4oaga7c3hqeold0s6re.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaRAFwwTydZzgpj8OresmKDxnJz6W10rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771983508480-lr716scbdkrtk4oaga7c3hqeold0s6re.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "771983508480-dhhjsrlrpa4gbpfnnrrjd957ploqvavc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.afjal.notemaker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
